@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 27
+names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'NOTHING', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+
+roboflow:
+  workspace: rr-pguxk
+  project: bisindo-sign-language
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/rr-pguxk/bisindo-sign-language/dataset/1

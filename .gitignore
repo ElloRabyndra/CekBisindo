@@ -1,0 +1,25 @@
+# Virtual environment
+bisindo_env/
+
+# Model pre-trained weights
+*.pt
+
+# Ultralytics runs folder (training/inference results)
+runs/
+
+# Dataset folders 
+bisindo-sign-language/train/
+bisindo-sign-language/valid/
+bisindo-sign-language/test/
+
+# Sample
+sample/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
