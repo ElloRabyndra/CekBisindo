@@ -1,6 +1,6 @@
 # CekBisindo: BISINDO Sign Language Detection
 
-## Project Overview 🖐️
+## Project Overview 
 
 CekBisindo is a dedicated sign language detection project specifically designed for **BISINDO (Bahasa Isyarat Indonesia)**. This project aims to accurately identify individual static hand signs representing letters of the alphabet, providing a foundational step towards more comprehensive sign language recognition systems. Leveraging a pre-labeled image dataset, CekBisindo employs state-of-the-art object detection techniques to recognize hand gestures, making it a valuable tool for learning, communication, or assistive technologies related to BISINDO.
 
